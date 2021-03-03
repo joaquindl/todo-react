@@ -1,6 +1,6 @@
 # Todo List App made with React
 
-Check it out at (https://joaquindl.github.io/todo-react/).
+Check it out at https://joaquindl.github.io/todo-react/.
 
 ## How to use?
 
